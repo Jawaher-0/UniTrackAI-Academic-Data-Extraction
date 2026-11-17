@@ -1,0 +1,17 @@
+[
+    {
+        "course": "Python Programming",
+        "assignment": "Python Functions",
+        "deadline": "2026-11-20"
+    },
+    {
+        "course": "Database Systems",
+        "assignment": "SQL Project",
+        "deadline": "2026-11-25"
+    },
+    {
+        "course": "Web Development",
+        "assignment": "HTML Assignment",
+        "deadline": "2026-11-28"
+    }
+]
