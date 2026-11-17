@@ -12,14 +12,14 @@ This project automates a sample academic website using Python and Selenium. It e
 ## Installation
 Install the required libraries:
 
-bash python -m pip install selenium beautifulsoup4 
+ python -m pip install selenium beautifulsoup4 
 
 ## How to Run
 1. Make sure sample.html and extractor.py are in the same folder.
 2. Open the project folder in VS Code.
 3. Run the following command:
 
-bash python extractor.py 
+ python extractor.py 
 
 ## Output
 The extracted data is saved in academic_data.json.
